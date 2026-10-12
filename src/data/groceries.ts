@@ -20,7 +20,7 @@ export const INITIAL_GROCERY_LIST: GroceryItem[] = [
   { id: 'g-14', category: 'Verduras y Ensaladas', name: 'Champiñones frescos enteros o laminados', quantityForBothWeekly: '500 g', checked: false },
   { id: 'g-15', category: 'Verduras y Ensaladas', name: 'Lechuga romana crujiente', quantityForBothWeekly: '2 piezas', checked: false },
   { id: 'g-16', category: 'Verduras y Ensaladas', name: 'Tomates cherry', quantityForBothWeekly: '2 bandejas (500 g)', checked: false },
-  { id: 'g-17', category: 'Verduras y Ensaladas', name: 'Pepinos para ensalada y snack', quantityForBothWeekly: '4 unidades', checked: false },
+  { id: 'g-17', category: 'Verduras y Ensaladas', name: 'Zanahorias crujientes y palmitos tiernos (ensaladas y snacks)', quantityForBothWeekly: '1 kg zanahorias + 1 tarro palmitos', checked: false },
   { id: 'g-18', category: 'Verduras y Ensaladas', name: 'Cebolla morada y ajos frescos', quantityForBothWeekly: '1 malla', checked: false },
 
   // Grasas Buenas y Frutos Secos
