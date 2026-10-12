@@ -43,7 +43,7 @@ export const INITIAL_GROCERY_LIST: GroceryItem[] = [
   { id: 'g-31', category: 'Despensa y Condimentos', name: 'Yogur griego 100% natural sin azúcar añadida', quantityForBothWeekly: '2 tarros grandes (1 kg total)', checked: false },
   { id: 'g-32', category: 'Despensa y Condimentos', name: 'Queso feta auténtico o requesón 0%', quantityForBothWeekly: '200 g', checked: false },
   { id: 'g-33', category: 'Despensa y Condimentos', name: 'Bebida de almendras sin azúcar', quantityForBothWeekly: '2 briks (1L c/u)', checked: false },
-  { id: 'g-34', category: 'Despensa y Condimentos', name: 'Pan 100% masa madre integral o centeno puro', quantityForBothWeekly: '1 hogaza rebanada', checked: false },
+  { id: 'g-34', category: 'Despensa y Condimentos', name: 'Harina de maíz blanco/amarillo precocida (para arepas colombianas)', quantityForBothWeekly: '1 paquete (1 kg)', checked: false },
   { id: 'g-35', category: 'Despensa y Condimentos', name: 'Quinoa en grano cruda', quantityForBothWeekly: '500 g', checked: false },
   { id: 'g-36', category: 'Despensa y Condimentos', name: 'Lentejas cocidas en tarro o crudas', quantityForBothWeekly: '1 tarro grande (400 g)', checked: false },
   { id: 'g-37', category: 'Despensa y Condimentos', name: 'Avena en copos enteros tradicional', quantityForBothWeekly: '500 g', checked: false },
